@@ -17,3 +17,10 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+## Sources
+The Module lessons for the first week was used to complete this task.
+However, the Code Reviewer used these websites as a quick reminder.
+HTML Comments https://www.w3schools.com/html/html_comments.asp
+CSS Comments https://www.w3schools.com/css/css_comments.asp
+HTML Images https://www.w3schools.com/html/html_images.asp
