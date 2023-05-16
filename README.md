@@ -5,7 +5,7 @@ The website is the main site for the Horiseon Company. This is a company that he
 They wanted a code reviewer to look over their code and make sure that it is up to standards with HTML and CSS.
 Comments were provided by the Code Reviewer. 
 
-##Acceptance Criteria
+## Acceptance Criteria
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
