@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
 }
-
+/* Background color for body*/
 body {
     background-color: #d9dcd6;
 }
@@ -45,13 +45,14 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* Paragraph font size */
 p {
     font-size: 16px;
 }
 /* Main Body of the Website with Company Information */
 
 /* Main image: This is the image that will welcome new users to the website, it's an image of a professional meeting */
+/* Main Banner of the Website */
 .hero {
     height: 800px;
     width: 100%;
@@ -162,7 +163,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-/* Website Images Images */
+/* Website Images for the main body */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -174,8 +175,8 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
-
-/* Header font sizes for Main Body */
+/* Website Images end*/
+/* Header Main Body */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
