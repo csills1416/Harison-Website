@@ -1,13 +1,27 @@
-# README
+# Horiseon Refactor
+
 ## Description
-The website is the main site for the Horiseon Company. This is a company that helps business advertise their services online. They provide technological services such as social media marketing, online reputation management, and search engine optimization. They also provide marketing services like lead generation, brand awareness, and cost management.
 
-They wanted a code reviewer to look over their code and make sure that it is up to standards with HTML and CSS.
-Comments were provided by the Code Reviewer. 
+Horiseon Inc. is a company specializing in online advertising and marketing for businesses. This project involved refactoring an existing webpage to enhance its accessibility, improve its semantic structure, and optimize the CSS. The main goal was to make the site more efficient and accessible without altering its appearance or functionality.
 
-## Sources
-The Module lessons for the first week was used to complete this task.
-However, the Code Reviewer used these websites as a quick reminder.
-HTML Comments https://www.w3schools.com/html/html_comments.asp
-CSS Comments https://www.w3schools.com/css/css_comments.asp
-HTML Images https://www.w3schools.com/html/html_images.asp
+![Screenshot of Horiseon Main Page](![image](https://github.com/csills1416/Horiseon-Website/assets/71670415/b33955fc-5dd1-4710-837a-1d51591a6204)
+)
+
+## Features
+
+- **Semantic HTML**: Improved the structure of the HTML elements to enhance accessibility and SEO.
+- **CSS Consolidation**: Optimized and consolidated CSS selectors and properties to streamline the stylesheet.
+- **Improved Link Functionality**: Ensured all navigation links function correctly.
+
+## Live Application
+
+You can view the live application here: [Horiseon Inc. Main Website]([https://csills1416.github.io/Horiseon-Website/])
+
+*Note: Replace "your-live-link-here" with the actual link to your live site.*
+
+## Contact
+
+For questions or further information, please contact:  
+[Chris Sills]  
+Email: csills1416@gmail.com  
+GitHub: [Your GitHub Profile][(your-github-link](https://github.com/csills1416)https://github.com/csills1416)
