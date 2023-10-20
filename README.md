@@ -17,11 +17,9 @@ Horiseon Inc. is a company specializing in online advertising and marketing for 
 
 You can view the live application here: [Horiseon Inc. Main Website]([https://csills1416.github.io/Horiseon-Website/])
 
-*Note: Replace "your-live-link-here" with the actual link to your live site.*
-
 ## Contact
 
 For questions or further information, please contact:  
 [Chris Sills]  
 Email: csills1416@gmail.com  
-GitHub: [Your GitHub Profile][(your-github-link](https://github.com/csills1416)https://github.com/csills1416)
+GitHub: (https://github.com/csills1416)
